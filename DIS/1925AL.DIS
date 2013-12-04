@@ -1,0 +1,525 @@
+"1925A0001","booni101",1925,"BOS","O",,"RBI","BOS192508040",2,0,"1925A0002",,,
+"1925A0002","carlr101",1925,"BOS","O",,"RBI","BOS192508040",1,0,"1925A0007",,,
+"1925A0003","ezzeh101",1925,"BOS","O",,"G","NYA192509020",1,2,,,,"Game counted twice on Official sheet"
+"1925A0004","ezzeh101",1925,"BOS","O",,"AB","NYA192509020",4,8,,"PAA",,"Game counted twice on Official sheet"
+"1925A0005","ezzeh101",1925,"BOS","O",,"R","NYA192509020",1,2,,"OPP",,"Game counted twice on Official sheet"
+"1925A0006","ezzeh101",1925,"BOS","O",,"H","NYA192509020",1,2,,"OPP",,"Game counted twice on Official sheet"
+"1925A0007","ezzeh101",1925,"BOS","O",,"RBI","BOS192508040",2,0,"1925A0027",,,
+"1925A0008","ezzeh101",1925,"BOS","O",,"SO","NYA192509020",1,2,,"OPP",,"Game counted twice on Official sheet"
+"1925A0009","ezzeh101",1925,"BOS","D","2B","G","NYA192509020",1,2,,,,"Game counted twice on Official sheet"
+"1925A0010","ezzeh101",1925,"BOS","D","2B","ERR","NYA192509020",3,6,,,,"Game counted twice on Official sheet"
+"1925A0011","ezzeh101",1925,"BOS","D","2B","DP",,2,1,,"COPY",,"Official sheets show 2 DP at 2B"
+"1925A0012","ezzeh101",1925,"BOS","D","3B","DP",,5,6,,"COPY",,"Official sheets show 5 DP at 3B"
+"1925A0013","flagi101",1925,"BOS","O",,"AB",,574,572,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0014","flagi101",1925,"BOS","O",,"SH",,15,14,,"ADD",,"Addition error on page 5 of Official sheet"
+"1925A0015","flagi101",1925,"BOS","O",,"HBP","SLA192508240",1,0,,"COL,OPP,PAA",,
+"1925A0449","flagi101",1925,"BOS","O",,"RBI","BOS192506180",1,0,"1925A0021","SWAP",,"Flagstead had only R and RBI with no HR"
+"1925A0450","flagi101",1925,"BOS","O",,"RBI","SLA192508240",0,1,,"COL,IMP",,"Officially, Red Sox had 0 R and 1 RBI"
+"1925A0016","flagi101",1925,"BOS","D","OF","LFG","CHA192505210",1,0,"1925A0017",,,
+"1925A0017","flagi101",1925,"BOS","D","OF","CFG","CHA192505210",0,1,"1925A0034",,,
+"1925A0018","grost101",1925,"BOS","O",,"AB","BOS192504270",3,4,"1925A0019",,,
+"1925A0019","harrj103",1925,"BOS","O",,"G","BOS192504270",1,0,"1925A0020",,,
+"1925A0020","harrj103",1925,"BOS","O",,"AB","BOS192504270",1,0,"1925A0018",,,
+"1925A0021","lee-d101",1925,"BOS","O",,"RBI","BOS192506180",0,1,"1925A0449","SWAP,IMP",,
+"1925A0022","piciv101",1925,"BOS","O",,"AB","BOS192506171",3,4,,"PAA",,
+"1925A0023","piciv101",1925,"BOS","O",,"BB","BOS192505010",1,0,"1925A0024","COL,OPP",,
+"1925A0024","piciv101",1925,"BOS","O",,"SH","BOS192505010",0,1,"1925A0023","COL,OPP",,
+"1925A0025","protd101",1925,"BOS","O",,"BB",,53,52,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0026","protd101",1925,"BOS","O",,"SH",,6,5,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0027","rogeb102",1925,"BOS","O",,"RBI","BOS192508040",0,1,"1925A0030",,,
+"1925A0028","rogeb102",1925,"BOS","O",,"BB","BOS192505010",1,0,,"OPP,PAA",,
+"1925A0029","rossb103",1925,"BOS","O",,"AB","CLE192507130",0,1,"1925A0036","PAA",,
+"1925A0030","rothj101",1925,"BOS","O",,"RBI","BOS192508040",0,1,"1925A0001",,,
+"1925A0031","rothj101",1925,"BOS","O",,"SH",,1,0,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0032","todtp101",1925,"BOS","O",,"SO","NYA192505262",2,0,,"OPP",,
+"1925A0033","wambb101",1925,"BOS","O",,"HBP",,3,1,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0034","willd105",1925,"BOS","D","OF","LFG","CHA192505210",0,1,"1925A0035",,,
+"1925A0035","willd105",1925,"BOS","D","OF","CFG","CHA192505210",1,0,"1925A0016",,,
+"1925A0036","wingt101",1925,"BOS","O",,"AB","CLE192507130",0,1,"1925A0029","PAA",,
+"1925A0037","wingt101",1925,"BOS","O",,"RBI","WS1192509050",2,1,,,,
+"1925A0038","archm101",1925,"CHA","O",,"G","CHA192505030",1,0,,,,
+"1925A0039","barrb105",1925,"CHA","D","2B","G","SLA192509060",1,0,"1925A0041",,,
+"1925A0040","barrb105",1925,"CHA","D","2B","ERR",,15,12,,"COPY",,"Official sheets show 15 ERR at 2B"
+"1925A0041","barrb105",1925,"CHA","D","SS","G","SLA192509060",0,1,"1925A0056",,,
+"1925A0042","colle101",1925,"CHA","O",,"BB","DET192507240",4,3,"1925A0367","PAA",,
+"1925A0043","colle101",1925,"CHA","O",,"HBP","DET192504150",0,1,,"OPP,PAA",,
+"1925A0044","conns101",1925,"CHA","O",,"G","CLE192507050",1,0,"1925A0045",,,
+"1925A0045","conns101",1925,"CHA","D","P","G","CLE192507050",1,0,"1925A0324",,,
+"1925A0046","croub101",1925,"CHA","D","C","ERR","CHA192504280",0,1,,,,
+"1925A0047","davii102",1925,"CHA","O",,"AB","CHA192506280",5,4,,"PAA",,
+"1925A0048","davii102",1925,"CHA","D","SS","DP",,99,97,,"ADD",,"Addition error on page 3 of Official sheet"
+"1925A0049","elshr101",1925,"CHA","D","OF","DP",,0,2,,"COPY",,"Official sheets show 0 DP at OF"
+"1925A0050","faber101",1925,"CHA","O",,"RBI","SLA192509060",1,0,"1925A0054",,,"Officially, White Sox had 4 R and 0 RBI"
+"1925A0051","faber101",1925,"CHA","D","P","ERR","CHA192505020",0,1,,,,
+"1925A0052","harrs102",1925,"CHA","D","OF","RFG","WS1192507290",1,0,,,,
+"1925A0054","kammw101",1925,"CHA","O",,"RBI","SLA192509060",2,0,"1925A0058",,,"Officially, White Sox had 4 R and 0 RBI"
+"1925A0055","kanej102",1925,"CHA","O",,"SO","CLE192509071",1,0,,"OPP",,
+"1925A0056","kanej102",1925,"CHA","D","2B","G","SLA192509060",0,1,"1925A0057",,,
+"1925A0057","kanej102",1925,"CHA","D","SS","G","SLA192509060",1,0,"1925A0039",,,
+"1925A0058","mostj101",1925,"CHA","O",,"RBI","SLA192509060",1,0,"1925A0050",,,"Officially, White Sox had 4 R and 0 RBI"
+"1925A0059","mostj101",1925,"CHA","O",,"SO","DET192507230",1,0,,"OPP",,
+"1925A0060","mostj101",1925,"CHA","O",,"HBP","CHA192505180",0,1,"1925A0398","PAA",,
+"1925A0061","schar103",1925,"CHA","D","C","PB",,5,4,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0062","sheee101",1925,"CHA","O",,"AB","WS1192507300",5,4,,"PAA",,
+"1925A0063","burng102",1925,"CLE","O",,"SO","CLE192505150",1,0,"1925A0080","OPP",,
+"1925A0064","fewsc101",1925,"CLE","O",,"BB","CLE192505070",2,0,,"OPP,PAA",,
+"1925A0065","fewsc101",1925,"CLE","O",,"SH","DET192504180",1,0,"1925A0375","PAA",,
+"1925A0066","fewsc101",1925,"CLE","O",,"HBP","CLE192505150",1,0,"1925A0089","SWAP,PAA",,
+"1925A0068","jamic101",1925,"CLE","O",,"SO","BOS192509180",1,0,,"OPP",,
+"1925A0069","jamic101",1925,"CLE","O",,"BB","SLA192505290",1,0,,"OPP,PAA",,
+"1925A0070","jamic101",1925,"CLE","D","OF","ERR","CLE192504250",1,0,"1925A0071","COL",,
+"1925A0071","jamic101",1925,"CLE","D","OF","DP","CLE192504250",0,1,"1925A0070","COL",,
+"1925A0072","klugj101",1925,"CLE","O",,"SH","CLE192506010",1,0,"1925A0079","SWAP,PAA",,
+"1925A0073","klugj101",1925,"CLE","D","2B","G","CLE192505020",1,0,"1925A0074","DUP",,"No 2B in game at end"
+"1925A0074","klugj101",1925,"CLE","D","2B","ERR","CLE192505020",2,0,"1925A0075",,,
+"1925A0075","klugj101",1925,"CLE","D","3B","G","CLE192505020",0,1,"1925A0076","DUP",,
+"1925A0076","klugj101",1925,"CLE","D","3B","ERR","CLE192505020",0,2,"1925A0073",,,
+"1925A0077","lee-c101",1925,"CLE","D","OF","G",,69,70,,,,"Official sheets show 69 G in OF"
+"1925A0078","lee-c101",1925,"CLE","D","OF","CFG",,14,15,,,,"Official sheets show 14 CFG"
+"1925A0079","lutzr101",1925,"CLE","O",,"SH","CLE192506010",0,1,"1925A0072","SWAP,PAA",,
+"1925A0080","mcnup101",1925,"CLE","O",,"SO","CLE192505150",1,0,"1925A0063","OPP",,
+"1925A0081","myatg101",1925,"CLE","O",,"RBI","CLE192505090",3,1,"1925A0086","SWAP",,
+"1925A0082","myatg101",1925,"CLE","O",,"BB","PHA192506150",0,1,,"OPP,PAA",,
+"1925A0083","myatg101",1925,"CLE","O",,"HBP","CLE192505070",0,1,,"OPP,PAA",,
+"1925A0084","sewel101",1925,"CLE","O",,"RBI","BOS192506090",0,1,,,,"Officially, Indians had 3 R and 4 RBI"
+"1925A0085","sewel101",1925,"CLE","D","C","PB","SLA192504140",2,1,,,,
+"1925A0086","sewej101",1925,"CLE","O",,"RBI","CLE192505090",0,2,"1925A0081","SWAP",,
+"1925A0087","sewej101",1925,"CLE","O",,"RBI","SLA192505261",1,2,,,,"Officially, Indians had 4 R and 5 RBI"
+"1925A0088","sewej101",1925,"CLE","O",,"SO","DET192505302",1,0,,"OPP",,
+"1925A0089","shauj101",1925,"CLE","O",,"HBP","CLE192505150",0,1,"1925A0066","SWAP,PAA",,
+"1925A0090","speat101",1925,"CLE","O",,"SO","CLE192505180",1,0,,"OPP",,
+"1925A0091","spurf101",1925,"CLE","O",,"R","CLE192505090",0,1,"1925A0092","OPP",,
+"1925A0092","spurf101",1925,"CLE","O",,"2B","CLE192505090",1,0,"1925A0091",,,
+"1925A0093","spurf101",1925,"CLE","O",,"RBI","CLE192507050",0,1,,,,
+"1925A0094","spurf101",1925,"CLE","O",,"BB","CLE192505010",0,1,,"OPP,PAA",,
+"1925A0454","spurf101",1925,"CLE","D","2B","DP",,19,17,,"COPY",,"Official sheets show 19 DP at SS"
+"1925A0453","spurf101",1925,"CLE","D","2B","DP","BOS192506080",0,1,"1925A0095",,,
+"1925A0095","spurf101",1925,"CLE","D","2B","G","BOS192506080",0,1,"1925A0096","DUP",,
+"1925A0096","spurf101",1925,"CLE","D","3B","DP","BOS192506080",1,0,"1925A0097",,,
+"1925A0097","spurf101",1925,"CLE","D","3B","G","BOS192506080",1,0,"1925A0453","DUP",,"No 3B in game at end"
+"1925A0098","stepr101",1925,"CLE","O",,"AB","DET192504200",6,5,,"PAA",,
+"1925A0099","uhleg101",1925,"CLE","O",,"G","CLE192505210",1,0,"1925A0100",,,
+"1925A0100","uhleg101",1925,"CLE","O",,"AB","CLE192505210",3,0,"1925A0101",,,
+"1925A0101","uhleg101",1925,"CLE","O",,"BB","CLE192505210",1,0,"1925A0451","OPP",,
+"1925A0451","uhleg101",1925,"CLE","D","P","G","CLE192505210",1,0,"1925A0099",,,"No P in game"
+"1925A0452","uhleg101",1925,"CLE","D","P","G",,28,29,,,,"Official sheets show 28 G at P"
+"1925A0102","waltr102",1925,"CLE","O",,"AB",,16,20,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0103","bassj102",1925,"DET","O",,"RBI",,53,52,,"ADD",,"Addition error on page 3 of Official sheet"
+"1925A0104","bluel101",1925,"DET","O",,"R","DET192505080",1,0,,"OPP",,
+"1925A0105","bluel101",1925,"DET","O",,"HBP","CLE192505020",1,0,,"OPP,PAA",,
+"1925A0106","burkl101",1925,"DET","O",,"G","DET192505150",1,0,,,,
+"1925A0447","burkl101",1925,"DET","D","SS","G","DET192505150",1,0,,,,"No SS in game at end"
+"1925A0107","burkl101",1925,"DET","O",,"BB","BOS192508100",2,0,,"OPP,PAA",,
+"1925A0109","carro101",1925,"DET","D","OF","CFG",,1,0,,,,"Official sheets show 1 CFG"
+"1925A0110","cobbt101",1925,"DET","O",,"RBI","CLE192506291",1,0,"1925A0113",,,"Officially, Tigers had 4 R and 0 Rbi"
+"1925A0111","cobbt101",1925,"DET","O",,"BB","DET192504270",1,0,"1925A0414","PAA",,
+"1925A0112","cobbt101",1925,"DET","O",,"BB","SLA192510042",1,0,"1925A0131","OPP",,
+"1925A0113","daush101",1925,"DET","O",,"RBI","CLE192506291",2,0,"1925A0456",,,"Officially, Tigers had 4 R and 0 Rbi"
+"1925A0114","doylj105",1925,"DET","O",,"BB",,2,1,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0115","doylj105",1925,"DET","O",,"SH","DET192504140",1,0,,"OPP",,
+"1925A0116","fothb101",1925,"DET","O",,"SO","CLE192509030",1,0,"1925A0424",,,
+"1925A0117","heilh101",1925,"DET","O",,"SO","SLA192507041",0,2,,"OPP,IMP",,"Officially, Heilmann was 4-5 with 2 SO"
+"1925A0455","heilh101",1925,"DET","O",,"RBI","NYA192506160",0,1,,,,
+"1925A0456","heilh101",1925,"DET","O",,"RBI","CLE192506291",1,0,"1925A0110",,,"Officially, Tigers had 4 R and 0 Rbi"
+"1925A0118","manuh101",1925,"DET","O",,"G","DET192508250",1,0,"1925A0121",,,
+"1925A0119","manuh101",1925,"DET","O",,"R","WS1192508040",1,0,"1925A0120","OPP",,
+"1925A0120","manuh101",1925,"DET","O",,"H","WS1192508040",1,0,"1925A0119","OPP",,
+"1925A0121","manuh101",1925,"DET","D","OF","G","DET192508250",1,0,"1925A0123",,,
+"1925A0122","manuh101",1925,"DET","D","OF","DP",,2,0,,"COPY",,"Official sheets show 2 DP in OF"
+"1925A0123","manuh101",1925,"DET","D","OF","CFG","DET192508250",1,0,"1925A0118",,,
+"1925A0124","neunj101",1925,"DET","O",,"AB","DET192504270",1,0,,"PAA",,
+"1925A0125","orouf101",1925,"DET","O",,"AB","DET192504160",4,3,,"PAA",,
+"1925A0126","orouf101",1925,"DET","D","2B","ERR","NYA192506160",1,0,,,,
+"1925A0127","rignt101",1925,"DET","D","SS","DP",,6,7,,"COPY",,"Official sheets show 6 DP at SS"
+"1925A0128","welle101",1925,"DET","O",,"G","BOS192508110",1,0,"1925A0130",,,
+"1925A0129","welle101",1925,"DET","O",,"BB","CHA192504240",1,0,,"OPP",,
+"1925A0130","welle101",1925,"DET","D","P","G","BOS192508110",1,0,"1925A0362",,,
+"1925A0131","winga101",1925,"DET","O",,"BB","SLA192510042",2,1,"1925A0112","OPP",,
+"1925A0132","woodl101",1925,"DET","O",,"AB","CHA192505280",0,1,,"PAA",,
+"1925A0133","woodl101",1925,"DET","O",,"SH","DET192506020",1,0,"1925A0342","PAA",,
+"1925A0134","bengb101",1925,"NYA","O",,"SH",,7,6,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0135","bengb101",1925,"NYA","D","C","ERR","SLA192507071",0,1,,,,
+"1925A0136","braxg101",1925,"NYA","D","P","ERR",,1,0,,"COPY",,"Official sheets show 1 ERR at P"
+"1925A0137","braxg101",1925,"NYA","D","P","DP",,0,1,,"COPY",,"Official sheets show 0 DP at P"
+"1925A0138","combe101",1925,"NYA","O",,"BB","NYA192504160",1,0,"1925A0140","COL,OPP",,
+"1925A0139","combe101",1925,"NYA","O",,"BB","NYA192504210",1,0,,"OPP,PAA",,
+"1925A0140","combe101",1925,"NYA","O",,"HBP","NYA192504160",0,1,"1925A0138","COL,OPP",,
+"1925A0141","dugaj101",1925,"NYA","O",,"RBI","CLE192507152",4,2,"1925A0150",,,
+"1925A0142","dugaj101",1925,"NYA","O",,"HBP","CLE192507152",0,1,"1925A0149","SWAP,PAA",,
+"1925A0461","gehrl101",1925,"NYA","O",,"RBI","NYA192504180",1,0,,,,"Per Herm Krabbenhoft's research"
+"1925A0462","gehrl101",1925,"NYA","O",,"RBI","WS1192506240",0,1,,,,"Per Herm Krabbenhoft's research"
+"1925A0463","gehrl101",1925,"NYA","O",,"RBI","BOS192506300",1,2,,,,"Per Herm Krabbenhoft's research"
+"1925A0464","gehrl101",1925,"NYA","O",,"RBI","BOS192509082",1,0,"1925A0465",,,"Per Herm Krabbenhoft's research"
+"1925A0143","gehrl101",1925,"NYA","D","1B","ERR","NYA192507041",0,1,,,,
+"1925A0144","johne102",1925,"NYA","O",,"HBP",,1,0,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0145","jones104",1925,"NYA","O",,"G","WS1192504250",0,1,,,,
+"1925A0146","jones104",1925,"NYA","O",,"SO","CHA192505150",1,0,"1925A0178","OPP",,
+"1925A0147","jones104",1925,"NYA","O",,"SO",,22,19,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0148","luebr101",1925,"NYA","D","C","DP",,0,1,,"COPY",,"Official sheets show 0 DP at C"
+"1925A0149","merkf101",1925,"NYA","O",,"AB","CLE192507152",2,3,"1925A0151",,,
+"1925A0150","merkf101",1925,"NYA","O",,"RBI","CLE192507152",3,0,"1925A0172",,,
+"1925A0151","merkf101",1925,"NYA","O",,"HBP","CLE192507152",1,0,"1925A0142","SWAP",,
+"1925A0152","meusb101",1925,"NYA","O",,"BB",,55,54,,"ADD",,"Addition error on page 3 of Official sheet"
+"1925A0465","meusb101",1925,"NYA","O",,"RBI","BOS192509082",0,1,"1925A0464",,,"Per Herm Krabbenhoft's research"
+"1925A0154","meusb101",1925,"NYA","D","OF","LFG","SLA192507071",0,1,"1925A0163","DUP",,
+"1925A0155","meusb101",1925,"NYA","D","OF","LFG","CLE192507151",1,0,"1925A0164","DUP",,
+"1925A0156","meusb101",1925,"NYA","D","OF","LFG","CLE192507152",1,0,"1925A0165","DUP",,
+"1925A0157","meusb101",1925,"NYA","D","OF","LFG","CLE192507160",1,0,"1925A0166","DUP",,
+"1925A0158","meusb101",1925,"NYA","D","OF","LFG","CLE192507170",1,0,"1925A0167","DUP",,
+"1925A0159","meusb101",1925,"NYA","D","OF","LFG","NYA192507230",1,0,"1925A0168","DUP",,
+"1925A0160","meusb101",1925,"NYA","D","OF","LFG","NYA192507261",1,0,"1925A0169","DUP",,
+"1925A0161","meusb101",1925,"NYA","D","OF","LFG","NYA192507262",1,0,"1925A0170","DUP",,
+"1925A0162","meusb101",1925,"NYA","D","OF","LFG",,82,86,,,,"Official sheets show 82 LFG"
+"1925A0163","meusb101",1925,"NYA","D","OF","RFG","SLA192507071",1,0,"1925A0154","DUP",,
+"1925A0164","meusb101",1925,"NYA","D","OF","RFG","CLE192507151",0,1,"1925A0155","DUP",,
+"1925A0165","meusb101",1925,"NYA","D","OF","RFG","CLE192507152",0,1,"1925A0156","DUP",,
+"1925A0166","meusb101",1925,"NYA","D","OF","RFG","CLE192507160",0,1,"1925A0157","DUP",,
+"1925A0167","meusb101",1925,"NYA","D","OF","RFG","CLE192507170",0,1,"1925A0158","DUP",,
+"1925A0168","meusb101",1925,"NYA","D","OF","RFG","NYA192507230",0,1,"1925A0159","DUP",,
+"1925A0169","meusb101",1925,"NYA","D","OF","RFG","NYA192507261",0,1,"1925A0160","DUP",,
+"1925A0170","meusb101",1925,"NYA","D","OF","RFG","NYA192507262",0,1,"1925A0161","DUP",,
+"1925A0171","meusb101",1925,"NYA","D","OF","RFG",,50,46,,,,"Official sheets show 50 RFG"
+"1925A0172","oneis101",1925,"NYA","O",,"RBI","CLE192507152",0,4,"1925A0185",,,
+"1925A0173","pascb102",1925,"NYA","O",,"RBI","SLA192505110",2,5,,,,"Officially, Yankees had 10 R and 13 RBI"
+"1925A0174","pascb102",1925,"NYA","O",,"BB","NYA192509010",1,0,,"OPP,PAA",,
+"1925A0175","pascb102",1925,"NYA","D","OF","LFG","CHA192505150",1,0,"1925A0176","DUP",,"No LF in game at end"
+"1925A0176","pascb102",1925,"NYA","D","OF","CFG","CHA192505150",0,1,"1925A0175","DUP",,
+"1925A0177","pippw101",1925,"NYA","O",,"SO","NYA192505040",1,0,,"OPP",,
+"1925A0178","pippw101",1925,"NYA","O",,"SO","CHA192505150",1,0,"1925A0146","OPP",,
+"1925A0179","schaw101",1925,"NYA","O",,"BB","WS1192506240",2,0,"1925A0180","COL,OPP",,
+"1925A0180","schaw101",1925,"NYA","O",,"SH","WS1192506240",0,2,"1925A0179","COL,OPP",,
+"1925A0181","schaw101",1925,"NYA","D","C","G","WS1192504250",0,1,,,,
+"1925A0182","veacb101",1925,"NYA","O",,"G","CHA192507140",1,0,"1925A0183",,,
+"1925A0183","veacb101",1925,"NYA","O",,"AB","CHA192507140",3,0,"1925A0184","PAA",,
+"1925A0184","veacb101",1925,"NYA","O",,"H","CHA192507140",1,0,"1925A0186","OPP",,
+"1925A0185","veacb101",1925,"NYA","O",,"RBI","CLE192507152",1,0,"1925A0141",,,
+"1925A0186","veacb101",1925,"NYA","D","OF","G","CHA192507140",1,0,"1925A0187",,,
+"1925A0187","veacb101",1925,"NYA","D","OF","LFG","CHA192507140",1,0,"1925A0182",,,
+"1925A0188","veacb101",1925,"NYA","D","OF","RFG",,20,30,,,,"Official sheets show 20 RFG"
+"1925A0189","wannp101",1925,"NYA","O",,"SO","DET192505190",1,0,,"OPP",,
+"1925A0190","warda101",1925,"NYA","O",,"AB","BOS192506300",4,3,,"PAA",,
+"1925A0191","warda101",1925,"NYA","O",,"SH",,10,9,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0192","bishm102",1925,"PHA","O",,"G","PHA192509261",1,0,"1925A0193",,,
+"1925A0193","bishm102",1925,"PHA","O",,"AB","PHA192509261",2,0,"1925A0195",,,
+"1925A0194","bishm102",1925,"PHA","O",,"RBI","CLE192506180",1,0,"1925A0198",,,"Officially, A's had 6 R and 0 RBI"
+"1925A0195","bishm102",1925,"PHA","O",,"BB","PHA192509261",3,0,"1925A0196","OPP",,
+"1925A0196","bishm102",1925,"PHA","D","2B","G","PHA192509261",1,0,"1925A0197",,,"No 2B in game"
+"1925A0197","bishm102",1925,"PHA","D","2B","ERR","PHA192509261",1,0,"1925A0192",,,
+"1925A0198","cochm101",1925,"PHA","O",,"RBI","CLE192506180",1,0,"1925A0207",,,"Officially, A's had 6 R and 0 RBI"
+"1925A0199","dykej101",1925,"PHA","O",,"RBI","SLA192508200",3,2,,,,
+"1925A0200","dykej101",1925,"PHA","D","2B","G","PHA192510020",0,1,"1925A0203","DUP",,
+"1925A0201","dykej101",1925,"PHA","D","2B","G","NYA192510030",0,1,"1925A0458","DUP",,
+"1925A0458","dykej101",1925,"PHA","D","2B","ERR","NYA192510030",0,1,"1925A0204",,,
+"1925A0459","dykej101",1925,"PHA","D","2B","ERR",,9,8,,"COPY",,"Official sheets show 9 ERR at 2B"
+"1925A0202","dykej101",1925,"PHA","D","2B","DP","DET192508290",0,1,,,,
+"1925A0203","dykej101",1925,"PHA","D","3B","G","PHA192510020",1,0,"1925A0200","DUP",,
+"1925A0204","dykej101",1925,"PHA","D","3B","G","NYA192510030",1,0,"1925A0201","DUP",,
+"1925A0205","dykej101",1925,"PHA","D","3B","ERR",,12,13,,"COPY",,"Official sheets show 12 ERR at 3B"
+"1925A0206","dykej101",1925,"PHA","D","3B","DP",,11,8,,"COPY",,"Official sheets show 11 DP at 3B"
+"1925A0207","gallc101",1925,"PHA","O",,"RBI","CLE192506180",1,0,"1925A0221",,,"Officially, A's had 6 R and 0 RBI"
+"1925A0209","lamab101",1925,"PHA","O",,"AB",,570,568,,"ADD",,"Addition error on page 3 of Official sheet"
+"1925A0210","lamab101",1925,"PHA","D","OF","DP","PHA192504150",0,1,,,,
+"1925A0211","millb110",1925,"PHA","O",,"SO","CHA192505170",0,1,,"OPP",,
+"1925A0212","millb110",1925,"PHA","O",,"BB",,21,19,,"ADD",,"Addition error on page 2 of Official show"
+"1925A0213","millb110",1925,"PHA","D","OF","LFG","CHA192505190",0,1,"1925A0214","DUP",,
+"1925A0214","millb110",1925,"PHA","D","OF","RFG","CHA192505190",1,0,"1925A0213","DUP",,
+"1925A0216","poolj101",1925,"PHA","D","1B","DP",,103,102,,"ADD",,"Addition error on page 3 of Official show"
+"1925A0217","simma101",1925,"PHA","O",,"BB","SLA192505240",1,0,"1925A0405","PAA",,
+"1925A0218","smitr107",1925,"PHA","O",,"G","PHA192506080",1,0,,,,
+"1925A0219","smitr107",1925,"PHA","O",,"AB","PHA192509102",1,2,,"PAA",,
+"1925A0220","smitr107",1925,"PHA","D","SS","G","PHA192506080",1,0,,,,
+"1925A0221","walbr101",1925,"PHA","O",,"RBI","CLE192506180",2,0,"1925A0222",,,"Officially, A's had 6 R and 0 RBI"
+"1925A0222","welcf101",1925,"PHA","O",,"RBI","CLE192506180",1,0,"1925A0194",,,"Officially, A's had 6 R and 0 RBI"
+"1925A0223","bennh102",1925,"SLA","O",,"SH","CLE192504230",1,0,,"OPP",,
+"1925A0224","bushj102",1925,"SLA","O",,"RBI","PHA192509231",1,0,"1925A0232",,,"Officially, Browns had 3 R and 0 RBI"
+"1925A0225","dixol101",1925,"SLA","O",,"R",,29,27,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0226","dixol101",1925,"SLA","D","C","G","SLA192505150",0,1,,,,
+"1925A0227","dixol101",1925,"SLA","D","C","DP",,10,8,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0228","dixol101",1925,"SLA","D","C","PB","SLA192504180",0,1,,,,
+"1925A0229","evanj101",1925,"SLA","O",,"SO","PHA192506220",1,0,,"OPP",,
+"1925A0230","gastm101",1925,"SLA","O",,"RBI","BOS192508040",0,1,"1925A0234",,,"Browns' scorer set RBI = subset of R"
+"1925A0231","hargp101",1925,"SLA","O",,"AB",,227,225,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0232","hargp101",1925,"SLA","O",,"RBI","PHA192509231",2,0,"1925A0224",,,"Officially, Browns had 3 R and 0 RBI"
+"1925A0233","jacow101",1925,"SLA","O",,"AB","CLE192504230",1,0,,"PAA",,
+"1925A0234","jacow101",1925,"SLA","O",,"RBI","BOS192508040",2,1,"1925A0236",,,"Browns' scorer set RBI = subset of R"
+"1925A0235","lamob101",1925,"SLA","O",,"RBI","SLA192507072",0,1,,,,"Officially, Browns had 6 R and 7 RBI"
+"1925A0236","lamob101",1925,"SLA","O",,"RBI","BOS192508040",1,2,"1925A0239",,,"Browns' scorer set RBI = subset of R"
+"1925A0237","lamob101",1925,"SLA","D","SS","ERR",,38,39,,"ADD",,"Wrong total carried over to page 4 of Official sheet"
+"1925A0238","lamob101",1925,"SLA","D","SS","DP",,57,67,,"COPY",,"Official sheets show 57 DP at SS"
+"1925A0239","mcmam101",1925,"SLA","O",,"RBI","BOS192508040",4,1,"1925A0243",,,"Browns' scorer set RBI = subset of R"
+"1925A0240","mcmam101",1925,"SLA","O",,"SO","SLA192505261",1,0,,"OPP",,
+"1925A0241","mcmam101",1925,"SLA","O",,"BB","CLE192504220",1,0,"1925A0242","COL,OPP",,
+"1925A0242","mcmam101",1925,"SLA","O",,"HBP","CLE192504220",0,1,"1925A0241","COL,OPP",,
+"1925A0243","riceh101",1925,"SLA","O",,"RBI","BOS192508040",0,1,"1925A0244",,,"Browns' scorer set RBI = subset of R"
+"1925A0244","robeg101",1925,"SLA","O",,"RBI","BOS192508040",1,0,"1925A0230",,,"Browns' scorer set RBI = subset of R"
+"1925A0245","robeg101",1925,"SLA","O",,"HBP","SLA192505040",0,1,,"OPP,PAA",,
+"1925A0247","sislg101",1925,"SLA","O",,"SH","SLA192507050",1,0,,"OPP,PAA",,
+"1925A0248","sislg101",1925,"SLA","D","1B","DP",,130,120,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0249","staue101",1925,"SLA","D","P","ERR","SLA192507030",1,0,"1925A0250","COL",,
+"1925A0250","staue101",1925,"SLA","D","P","DP","SLA192507030",0,1,"1925A0249","COL",,
+"1925A0251","tobij101",1925,"SLA","O",,"AB",,191,193,,"ADD",,"Addition error on page 3 of Official sheet"
+"1925A0252","tobij101",1925,"SLA","D","OF","LFG","BOS192508030",1,0,"1925A0253","DUP",,
+"1925A0253","tobij101",1925,"SLA","D","OF","RFG","BOS192508030",0,1,"1925A0252","DUP",,
+"1925A0254","adams102",1925,"WS1","O",,"G","WS1192506180",1,0,"1925A0255",,,
+"1925A0255","adams102",1925,"WS1","O",,"AB","WS1192506180",2,0,"1925A0256","PAA",,
+"1925A0256","adams102",1925,"WS1","O",,"R","WS1192506180",1,0,"1925A0257","OPP",,
+"1925A0257","adams102",1925,"WS1","O",,"H","WS1192506180",1,0,"1925A0258","OPP",,
+"1925A0258","adams102",1925,"WS1","O",,"2B","WS1192506180",1,0,"1925A0259",,,
+"1925A0259","adams102",1925,"WS1","D","2B","G","WS1192506180",1,0,"1925A0254",,,
+"1925A0260","blueo102",1925,"WS1","O",,"HBP",,4,2,,"ADD",,"Addition error on page 4 of Official sheet"
+"1925A0261","coves101",1925,"WS1","O",,"AB","CLE192505190",2,0,,"PAA",,
+"1925A0262","coves101",1925,"WS1","O",,"SO","CHA192507080",1,0,,"OPP",,
+"1925A0263","goslg101",1925,"WS1","O",,"AB","BOS192504280",4,5,,"SWAP",,
+"1925A0264","goslg101",1925,"WS1","O",,"RBI","CLE192505160",2,1,,,,
+"1925A0266","goslg101",1925,"WS1","O",,"RBI","CHA192508300",2,0,"1925A0278",,,"Officially, Senators had 9 R and 0 RBI"
+"1925A0267","goslg101",1925,"WS1","O",,"SO","BOS192504280",1,0,,"OPP",,
+"1925A0268","goslg101",1925,"WS1","O",,"SO","CHA192505110",1,0,,"OPP",,
+"1925A0269","goslg101",1925,"WS1","O",,"BB","BOS192504280",1,0,,"OPP,SWAP",,
+"1925A0271","gregv101",1925,"WS1","O",,"SO","WS1192504250",0,1,,"IMP",,"Officially, Gregg was 0-0 with 1 SO"
+"1925A0272","gregv101",1925,"WS1","D","P","ERR","WS1192504250",0,1,,,,
+"1925A0273","harrj103",1925,"WS1","O",,"RBI","BOS192507021",2,1,,,,
+"1925A0274","harrj103",1925,"WS1","O",,"SO","CLE192505170",1,0,,"OPP",,
+"1925A0275","harrj103",1925,"WS1","O",,"BB","WS1192509180",1,0,,"OPP,PAA",,
+"1925A0276","harrj103",1925,"WS1","D","OF","CFG","CLE192508180",1,0,"1925A0277",,,
+"1925A0277","harrj103",1925,"WS1","D","OF","RFG","CLE192508180",0,1,"1925A0297",,,
+"1925A0278","harrb106",1925,"WS1","O",,"RBI","CHA192508300",2,0,"1925A0292",,,"Officially, Senators had 9 R and 0 RBI"
+"1925A0279","harrb106",1925,"WS1","O",,"BB","WS1192504220",0,1,"1925A0280","COL",,
+"1925A0280","harrb106",1925,"WS1","O",,"HBP","WS1192504220",1,0,"1925A0290","COL,OPP",,
+"1925A0281","judgj101",1925,"WS1","O",,"G","BOS192504270",1,0,"1925A0283",,,
+"1925A0282","judgj101",1925,"WS1","O",,"AB","PHA192504210",2,3,"1925A0284","PAA",,
+"1925A0283","judgj101",1925,"WS1","O",,"R","BOS192504270",1,0,"1925A0285",,,
+"1925A0284","judgj101",1925,"WS1","O",,"2B","PHA192504210",0,1,"1925A0282",,,
+"1925A0285","judgj101",1925,"WS1","D","1B","G","BOS192504270",1,0,"1925A0306",,,
+"1925A0286","lylej101",1925,"WS1","O",,"AB","BOS192510020",1,0,,"PAA",,
+"1925A0287","mcnam101",1925,"WS1","O",,"G","CHA192505080",1,0,,,,
+"1925A0288","mcnee101",1925,"WS1","O",,"G","DET192508220",1,0,,,,
+"1925A0289","mcnee101",1925,"WS1","O",,"RBI",,38,37,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0290","mcnee101",1925,"WS1","O",,"BB","WS1192504220",1,0,"1925A0279","OPP",,
+"1925A0291","ogdec101",1925,"WS1","D","P","ERR","WS1192509270",1,0,,,,
+"1925A0292","peckr101",1925,"WS1","O",,"RBI","CHA192508300",1,0,"1925A0295",,,"Officially, Senators had 9 R and 0 RBI"
+"1925A0293","peckr101",1925,"WS1","O",,"SO",,25,23,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0294","peckr101",1925,"WS1","O",,"BB","CHA192505110",2,1,,"OPP,PAA",,
+"1925A0295","rices101",1925,"WS1","O",,"RBI","CHA192508300",4,0,"1925A0266",,,"Officially, Senators had 9 R and 0 RBI"
+"1925A0296","rices101",1925,"WS1","O",,"SH","WS1192508020",1,0,,"OPP,PAA",,
+"1925A0297","rices101",1925,"WS1","D","OF","CFG","CLE192508180",0,1,"1925A0299",,,
+"1925A0298","rices101",1925,"WS1","D","OF","CFG",,31,29,,,,"Official sheets show 31 CFG"
+"1925A0299","rices101",1925,"WS1","D","OF","RFG","CLE192508180",1,0,"1925A0276",,,
+"1925A0300","rices101",1925,"WS1","D","OF","RFG",,131,133,,,,"Official sheets show 131 RFG"
+"1925A0301","ruelm101",1925,"WS1","O",,"RBI","SLA192508250",1,0,"1925A0305",,,
+"1925A0302","ruelm101",1925,"WS1","D","C","PB",,2,1,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0303","ruetd101",1925,"WS1","O",,"G","WS1192505301",0,1,"1925A0304",,,
+"1925A0304","ruetd101",1925,"WS1","O",,"AB","WS1192505301",0,1,"1925A0303",,,
+"1925A0305","seveh101",1925,"WS1","O",,"RBI","SLA192508250",1,0,"1925A0301",,,
+"1925A0306","shirm101",1925,"WS1","O",,"R","BOS192504270",0,1,"1925A0281",,,
+"1925A0307","ehmkh101",1925,"BOS","P",,"IP","PHA192506240",8.1,9,,,,
+"1925A0308","ehmkh101",1925,"BOS","P",,"BB","DET192507081",3,5,,"OPP",,
+"1925A0309","fuhro102",1925,"BOS","P",,"IP",,92.1,91.1,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0310","fuhro102",1925,"BOS","P",,"SO","BOS192508040",0,1,,"OPP",,
+"1925A0311","fuhro102",1925,"BOS","P",,"ER",,69,67,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0312","fullc102",1925,"BOS","P",,"R","WS1192505030",6,5,,"OPP",,
+"1925A0313","kallr101",1925,"BOS","P",,"IP","PHA192504140",1,1.2,,,,
+"1925A0314","quinj102",1925,"BOS","P",,"IP","PHA192506230",8.2,9,,,,
+"1925A0448","quinj102",1925,"BOS","P",,"IP",,106,105,,"COPY",,"Official sheets show 106 IP"
+"1925A0315","quinj102",1925,"BOS","P",,"SO","SLA192505190",1,0,"1925A0316","OPP",,
+"1925A0316","quinj102",1925,"BOS","P",,"BB","SLA192505190",0,2,"1925A0317","OPP",,
+"1925A0317","quinj102",1925,"BOS","P",,"SH","SLA192505190",1,0,"1925A0315","OPP",,
+"1925A0318","ruffr101",1925,"BOS","P",,"SO","BOS192508010",2,0,"1925A0320","COL,OPP",,
+"1925A0319","ruffr101",1925,"BOS","P",,"H","BOS192506200",8,6,,"OPP",,
+"1925A0320","ruffr101",1925,"BOS","P",,"HBP","BOS192508010",0,2,"1925A0318","COL,OPP",,
+"1925A0321","wingt101",1925,"BOS","P",,"IP","PHA192507250",0.2,1.1,,,,
+"1925A0322","zahnp101",1925,"BOS","P",,"ER",,103,101,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0323","blant101",1925,"CHA","P",,"IP","CHA192509130",1,0.2,,,,
+"1925A0324","conns101",1925,"CHA","P",,"G","CLE192507050",1,0,"1925A0325",,,
+"1925A0325","conns101",1925,"CHA","P",,"IP","CLE192507050",0.2,0,"1925A0334",,,
+"1925A0326","conns101",1925,"CHA","P",,"IP","CHA192507160",4.1,7.1,"1925A0329",,,
+"1925A0327","conns101",1925,"CHA","P",,"IP","PHA192508030",2.1,3,,,,
+"1925A0328","conns101",1925,"CHA","P",,"IP",,107.1,104.2,,"ADD",,"Official sheets show 107 IP"
+"1925A0329","conns101",1925,"CHA","P",,"H","CHA192507160",5,9,"1925A0333","OPP",,
+"1925A0330","conns101",1925,"CHA","P",,"H",,127,122,,"ADD",,"Official sheets show 127 H"
+"1925A0331","conns101",1925,"CHA","P",,"SH","CHA192504260",1,0,,"OPP",,
+"1925A0332","conns101",1925,"CHA","P",,"SH",,18,16,,"COPY",,"Official sheets show 18 SH"
+"1925A0333","conns101",1925,"CHA","P",,"R","CHA192507160",2,5,"1925A0326","OPP",,
+"1925A0334","conns101",1925,"CHA","P",,"GF","CLE192507050",1,0,"1925A0339",,,
+"1925A0335","cvenm101",1925,"CHA","P",,"SO","CLE192507062",0,2,,"OPP",,
+"1925A0336","faber101",1925,"CHA","P",,"IP","CLE192507042",8.1,9,,,,
+"1925A0337","lyont102",1925,"CHA","P",,"SO","NYA192508120",0,1,"1925A0338","OPP",,
+"1925A0338","lyont102",1925,"CHA","P",,"BB","NYA192508120",0,2,"1925A0337","OPP",,
+"1925A0339","thurs101",1925,"CHA","P",,"IP","CLE192507050",8.1,9,"1925A0340",,,
+"1925A0340","thurs101",1925,"CHA","P",,"CG","CLE192507050",0,1,"1925A0044",,,
+"1925A0341","thurs101",1925,"CHA","P",,"BB","CHA192505270",3,2,,"OPP",,
+"1925A0342","thurs101",1925,"CHA","P",,"SH","DET192506020",2,1,"1925A0133",,,
+"1925A0343","buckg101",1925,"CLE","P",,"IP","NYA192506100",0.1,1,,,,
+"1925A0344","buckg101",1925,"CLE","P",,"SO","CLE192509050",1,0,,"OPP",,
+"1925A0345","buckg101",1925,"CLE","P",,"SH","DET192505301",1,0,"1925A0355","OPP",,
+"1925A0346","buckg101",1925,"CLE","P",,"R",,73,74,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0347","coleb101",1925,"CLE","P",,"IP","CLE192507081",7.1,8.1,,,,
+"1925A0348","edwaj102",1925,"CLE","P",,"IP","CHA192504270",1,0.2,,,,
+"1925A0349","karrb101",1925,"CLE","P",,"IP",,203.2,197.2,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0350","karrb101",1925,"CLE","P",,"HBP","CLE192505180",1,0,,"OPP",,
+"1925A0351","millj109",1925,"CLE","P",,"SO","CLE192507200",1,3,"1925A0353","OPP",,
+"1925A0352","millj109",1925,"CLE","P",,"SO","CLE192508280",1,2,"1925A0354","OPP",,
+"1925A0353","millj109",1925,"CLE","P",,"BB","CLE192507200",2,1,"1925A0351","OPP",,
+"1925A0354","millj109",1925,"CLE","P",,"BB","CLE192508280",0,5,"1925A0352","OPP",,
+"1925A0355","roy-l101",1925,"CLE","P",,"SH","DET192505301",1,0,"1925A0345","OPP",,
+"1925A0356","shauj101",1925,"CLE","P",,"IP","SLA192505261",1.2,1.1,,,,
+"1925A0357","shauj101",1925,"CLE","P",,"BB","CLE192504250",1,3,"1925A0358","OPP",,
+"1925A0358","shauj101",1925,"CLE","P",,"SH","CLE192504250",2,0,"1925A0359","OPP",,
+"1925A0359","shauj101",1925,"CLE","P",,"R","CLE192504250",6,5,"1925A0357","OPP",,
+"1925A0360","uhleg101",1925,"CLE","P",,"HBP","CHA192504280",1,0,,"OPP",,
+"1925A0361","coleb101",1925,"DET","P",,"GF","CHA192505270",0,1,,,,"Officially, both Cole and Stoner given GF"
+"1925A0362","collr104",1925,"DET","P",,"IP","BOS192508110",7,8,"1925A0363",,,
+"1925A0363","collr104",1925,"DET","P",,"CG","BOS192508110",0,1,"1925A0364",,,
+"1925A0364","collr104",1925,"DET","P",,"BB","BOS192508110",2,3,"1925A0372",,,
+"1925A0365","daush101",1925,"DET","P",,"ER",,90,80,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0366","doylj105",1925,"DET","P",,"IP","PHA192506090",2.2,3,,,,
+"1925A0367","doylj105",1925,"DET","P",,"BB","DET192507240",1,0,"1925A0042",,,
+"1925A0368","doylj105",1925,"DET","P",,"H",,153,158,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0369","hollk101",1925,"DET","P",,"HBP","DET192505160",1,0,,"OPP",,
+"1925A0370","hollk101",1925,"DET","P",,"ER",,78,81,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0371","leond102",1925,"DET","P",,"R","DET192505150",8,7,,"OPP",,
+"1925A0372","welle101",1925,"DET","P",,"G","BOS192508110",1,0,"1925A0373",,,
+"1925A0373","welle101",1925,"DET","P",,"IP","BOS192508110",1,0,"1925A0374",,,
+"1925A0374","welle101",1925,"DET","P",,"BB","BOS192508110",1,0,"1925A0376",,,
+"1925A0375","welle101",1925,"DET","P",,"SH","DET192504180",4,3,"1925A0065",,,
+"1925A0376","welle101",1925,"DET","P",,"GF","BOS192508110",1,0,"1925A0128",,,
+"1925A0377","white102",1925,"DET","P",,"SH","PHA192506060",0,1,,"OPP",,
+"1925A0378","ferga101",1925,"NYA","P",,"IP","CLE192507160",3.2,2.2,,,,
+"1925A0379","hoytw101",1925,"NYA","P",,"IP",,245,243,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0380","hoytw101",1925,"NYA","P",,"H",,282,283,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0381","hoytw101",1925,"NYA","P",,"BK",,1,0,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0382","jones104",1925,"NYA","P",,"IP","PHA192509102",11.2,12,,,,
+"1925A0383","jones104",1925,"NYA","P",,"BB","DET192507200",1,0,,"OPP",,
+"1925A0384","pennh101",1925,"NYA","P",,"IP","PHA192505302",13.1,14,,,,
+"1925A0385","pennh101",1925,"NYA","P",,"IP",,276.2,277,,"ADD",,"Official sheets show 276.2 IP"
+"1925A0460","pennh101",1925,"NYA","P",,"ER","SLA192507072",1,0,,,,
+"1925A0386","shawb102",1925,"NYA","P",,"IP","WS1192504250",1.2,1.1,,,,
+"1925A0387","shawb102",1925,"NYA","P",,"IP","CLE192507151",11.1,12,,,,
+"1925A0388","shawb102",1925,"NYA","P",,"SO","NYA192504170",2,3,,"OPP",,
+"1925A0389","shawb102",1925,"NYA","P",,"GF","SLA192507072",0,1,,,,"Officially, both Shawkey and Pennock had GF"
+"1925A0390","shawb102",1925,"NYA","P",,"GF","SLA192507101",0,1,,,,"Officially, both Shawkey and Pennock had GF"
+"1925A0391","shocu101",1925,"NYA","P",,"SO","PHA192505301",1,0,"1925A0392","COL,OPP",,
+"1925A0392","shocu101",1925,"NYA","P",,"BB","PHA192505301",0,1,"1925A0391","COL,OPP",,
+"1925A0393","shocu101",1925,"NYA","P",,"BB","CLE192508230",3,1,,"OPP",,
+"1925A0394","baums101",1925,"PHA","P",,"H","CLE192507090",6,2,,"OPP",,
+"1925A0395","baums101",1925,"PHA","P",,"GF","PHA192505302",0,1,,,,"Baumgartner started game"
+"1925A0396","grays102",1925,"PHA","P",,"H",,196,199,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0397","grovl101",1925,"PHA","P",,"SO","PHA192504170",5,6,,"OPP",,
+"1925A0398","grovl101",1925,"PHA","P",,"HBP","CHA192505180",0,1,"1925A0060",,,
+"1925A0399","harrs101",1925,"PHA","P",,"IP","WS1192505310",8,9,,,,
+"1925A0400","harrs101",1925,"PHA","P",,"IP",,253.1,252.2,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0401","romme101",1925,"PHA","P",,"SO","NYA192507020",3,0,"1925A0403","COL,OPP",,
+"1925A0402","romme101",1925,"PHA","P",,"H","BOS192506020",9,8,,"OPP",,
+"1925A0403","romme101",1925,"PHA","P",,"HBP","NYA192507020",0,3,"1925A0401","COL,OPP",,
+"1925A0404","romme101",1925,"PHA","P",,"SH","PHA192504160",1,0,,"OPP",,
+"1925A0405","bushj102",1925,"SLA","P",,"BB","SLA192505240",5,4,"1925A0217",,,
+"1925A0406","bushj102",1925,"SLA","P",,"H",,240,230,,"ADD",,"Official sheets show 240 H"
+"1925A0407","bushj102",1925,"SLA","P",,"R","SLA192505110",3,4,,"OPP",,
+"1925A0408","danfd101",1925,"SLA","P",,"GF","PHA192508120",1,0,,,,"Officially, no GF in game"
+"1925A0409","david102",1925,"SLA","P",,"SO","SLA192507120",2,1,,"OPP",,
+"1925A0410","david102",1925,"SLA","P",,"SO","CHA192509130",0,2,"1925A0411","OPP",,
+"1925A0411","david102",1925,"SLA","P",,"BB","CHA192509130",7,1,"1925A0410","OPP",,
+"1925A0412","gastm101",1925,"SLA","P",,"IP","CLE192508160",2.1,3.1,,,,
+"1925A0413","gastm101",1925,"SLA","P",,"SO","PHA192506190",1,0,,"OPP",,
+"1925A0414","gastm101",1925,"SLA","P",,"BB","DET192504270",2,1,"1925A0111",,,
+"1925A0415","gastm101",1925,"SLA","P",,"BB",,102,101,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0416","gastm101",1925,"SLA","P",,"H",,274,284,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0417","gastm101",1925,"SLA","P",,"SH","CLE192504230",1,0,,"OPP",,
+"1925A0418","giarj101",1925,"SLA","P",,"H",,175,179,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0419","grang101",1925,"SLA","P",,"SO","SLA192505130",1,0,,"OPP",,
+"1925A0420","grang101",1925,"SLA","P",,"H","PHA192506190",0,3,,"OPP",,
+"1925A0421","mogrg101",1925,"SLA","P",,"HBP","PHA192506200",0,1,,"OPP",,
+"1925A0422","staue101",1925,"SLA","P",,"SH",,2,0,,"ADD",,"Official sheets show 2 SH"
+"1925A0423","vange101",1925,"SLA","P",,"CG","BOS192509172",1,0,,,,
+"1925A0424","vange101",1925,"SLA","P",,"SO","SLA192509030",1,0,"1925A0116",,,
+"1925A0425","winge102",1925,"SLA","P",,"IP","WS1192506140",3.2,4.1,,,,
+"1925A0426","winge102",1925,"SLA","P",,"IP","SLA192507190",2.2,11,,,,
+"1925A0427","winge102",1925,"SLA","P",,"IP",,153,145,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0428","ballw101",1925,"WS1","P",,"IP","WS1192509171",1.1,0.2,"1925A0440","SWAP",,
+"1925A0429","ballw101",1925,"WS1","P",,"H","WS1192509171",7,6,"1925A0434","SWAP",,
+"1925A0430","coves101",1925,"WS1","P",,"SO","NYA192504160",1,3,"1925A0431","OPP",,
+"1925A0431","coves101",1925,"WS1","P",,"BB","NYA192504160",2,3,"1925A0430","OPP",,
+"1925A0432","coves101",1925,"WS1","P",,"H","WS1192504250",8,7,,"OPP",,
+"1925A0433","coves101",1925,"WS1","P",,"SH","WS1192506250",0,1,,"OPP",,
+"1925A0434","johnw102",1925,"WS1","P",,"H","WS1192509171",7,8,"1925A0429","SWAP",,
+"1925A0435","johnw102",1925,"WS1","P",,"SH","CLE192505160",1,0,,"OPP",,
+"1925A0436","mogrg101",1925,"WS1","P",,"GF",,1,0,,"COPY",,"Official sheets show 1 GF"
+"1925A0437","ogdec101",1925,"WS1","P",,"SO","SLA192507110",1,0,"1925A0438","COL,OPP",,
+"1925A0438","ogdec101",1925,"WS1","P",,"BB","SLA192507110",0,1,"1925A0437","COL,OPP",,
+"1925A0439","ruetd101",1925,"WS1","P",,"SO","CLE192507190",1,0,,"OPP",,
+"1925A0440","russa101",1925,"WS1","P",,"IP","WS1192509171",0.1,1,"1925A0428","SWAP",,
+"1925A0441","russa101",1925,"WS1","P",,"SO",,26,25,,"ADD",,"Addition error on page 1 of Official sheet"
+"1925A0442","russa101",1925,"WS1","P",,"H",,83,85,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0443","zacht101",1925,"WS1","P",,"IP",,215.2,217.2,,"ADD",,"Addition error on page 2 of Official sheet"
+"1925A0444","zacht101",1925,"WS1","P",,"SO","WS1192509020",1,0,"1925A0445","COL,OPP",,
+"1925A0445","zacht101",1925,"WS1","P",,"BB","WS1192509020",0,1,"1925A0444","COL,OPP",,
+"1925A0446","zacht101",1925,"WS1","P",,"GF","WS1192509060",0,1,,,,"Zachary started the game"
+"1925A0466","bushj102",1925,"SLA","P",,"HR",,17,18,"1925A0467",,,
+"1925A0467","giarj101",1925,"SLA","P",,"HR",,14,13,"1925A0466",,,
+"1925A0468","neubh101",1925,"BOS","P",,"HR",,1,2,"1925A0469",,,,Y
+"1925A0469","zahnp101",1925,"BOS","P",,"HR",,7,6,"1925A0468",,,,Y
+"1925A0470","coleb101",1925,"CLE","P",,"HR",,0,1,"1925A0471",,,,Y
+"1925A0471","millj109",1925,"CLE","P",,"HR",,5,4,"1925A0472",,,,Y
+"1925A0472","roy-l101",1925,"CLE","P",,"HR",,0,1,"1925A0473",,,,Y
+"1925A0473","shauj101",1925,"CLE","P",,"HR",,7,6,"1925A0470",,,,Y
+"1925A0474","baums101",1925,"PHA","P",,"HR",,3,2,"1925A0475",,,,Y
+"1925A0475","harrs101",1925,"PHA","P",,"HR",,6,8,"1925A0476",,,,Y
+"1925A0476","walbr101",1925,"PHA","P",,"HR",,12,11,"1925A0474",,,,Y
+"1925A0477","bushj102",1925,"SLA","P",,"AB","CHA192505010",25,34,,,,
+"1925A0478","david102",1925,"SLA","P",,"AB","WS1192506180",36,35,,,,
+"1925A0479","gastm101",1925,"SLA","P",,"AB","DET192504270",22,21,,,,
+"1925A0480","gastm101",1925,"SLA","P",,"AB",,928,931,,"ADD",,
+"1925A0481","giarj101",1925,"SLA","P",,"AB","SLA192508280",32,31,,,,
+"1925A0482","grang101",1925,"SLA","P",,"AB","PHA192506190",3,1,,,,
+"1925A0483","winge102",1925,"SLA","P",,"AB","SLA192507190",11,3,,,,
+"1925A0484","ehmkh101",1925,"BOS","P",,"AB","BOS192506300",35,34,,,,
+"1925A0485","quinj102",1925,"BOS","P",,"AB","PHA192504170",20,22,,,,
+"1925A0486","blant101",1925,"CHA","P",,"AB","CHA192507212",34,33,,,,
+"1925A0487","blant101",1925,"CHA","P",,"AB",,873,863,,"ADD",,
+"1925A0488","conns101",1925,"CHA","P",,"AB","CLE192507050",2,0,,,,
+"1925A0489","conns101",1925,"CHA","P",,"AB","CHA192507160",12,22,,,,
+"1925A0490","faber101",1925,"CHA","P",,"AB","DET192504160",33,32,,,,
+"1925A0491","faber101",1925,"CHA","P",,"AB","BOS192506171",32,33,,,,
+"1925A0492","faber101",1925,"CHA","P",,"AB","CHA192506260",31,32,,,,
+"1925A0493","thurs101",1925,"CHA","P",,"AB","CLE192507050",34,36,,,,
+"1925A0494","buckg101",1925,"CLE","P",,"AB",,582,602,,"ADD",,
+"1925A0495","karrb101",1925,"CLE","P",,"AB","CLE192504230",21,20,,,,
+"1925A0496","karrb101",1925,"CLE","P",,"AB","CLE192507081",10,9,,,,
+"1925A0497","karrb101",1925,"CLE","P",,"AB","",787,782,,"ADD",,
+"1925A0498","millj109",1925,"CLE","P",,"AB","CLE192507130",13,14,,,,
+"1925A0499","shauj101",1925,"CLE","P",,"AB","CLE192507130",4,5,,,,
+"1925A0500","speeb101",1925,"CLE","P",,"AB","CLE192507152",21,22,,,,
+"1925A0501","uhleg101",1925,"CLE","P",,"AB","CHA192506280",27,26,,,,
+"1925A0502","uhleg101",1925,"CLE","P",,"AB","WS1192508131",31,35,,,,
+"1925A0503","collr104",1925,"DET","P",,"AB","BOS192508110",24,27,,,,
+"1925A0504","daush101",1925,"DET","P",,"AB","DET192504170",35,34,,,,
+"1925A0505","johns101",1925,"DET","P",,"AB","DET192504200",24,23,,,,
+"1925A0506","leond102",1925,"DET","P",,"AB","CLE192506292",36,35,,,,
+"1925A0507","stonl101",1925,"DET","P",,"AB","DET192508180",34,32,,,,
+"1925A0508","welle101",1925,"DET","P",,"AB","BOS192508110",3,0,,,,
+"1925A0509","ballw101",1925,"WS1","P",,"AB","WS1192509171",7,6,,,,
+"1925A0510","ballw101",1925,"WS1","P",,"AB",,116,111,,"ADD",,
+"1925A0511","coves101",1925,"WS1","P",,"AB","WS1192507300",17,16,,,,
+"1925A0512","gregv101",1925,"WS1","P",,"AB",,276,274,,"ADD",,
+"1925A0513","zacht101",1925,"WS1","P",,"AB","CLE192505170",32,30,,,,
+"1925A0514","hoytw101",1925,"NYA","P",,"AB","CHA192505130",23,24,,,,
+"1925A0515","jones104",1925,"NYA","P",,"AB","PHA192509102",44,45,,,,
+"1925A0516","shawb102",1925,"NYA","P",,"AB","BOS192509081",30,29,,,,
+"1925A0517","baums101",1925,"PHA","P",,"AB",,436,437,,"ADD",,
+"1925A0518","grays102",1925,"PHA","P",,"AB","PHA192504150",32,31,,,,
+"1925A0519","grays102",1925,"PHA","P",,"AB",,774,764,,,,
+"1925A0520","grovl101",1925,"PHA","P",,"AB",,740,744,,"ADD",,
+"1925A0521","romme101",1925,"PHA","P",,"AB",,1016,1015,,"ADD",,
+"1925A0522","ruthb101",1925,"NYA","O",,"RBI","BOS192507010",4,3,,,,"Per Herm Krabbenhoft's research"
+"1925A0523","meusb101",1925,"NYA","O",,"RBI","BOS192507010",1,2,,,,"Per Herm Krabbenhoft's research"
+"1925A0524","ruthb101",1925,"NYA","O",,"R","BOS192507010",2,3,,,,"Per Herm Krabbenhoft's research"
+"1925A0525","wannp101",1925,"NYA","O",,"R","BOS192507010",1,0,,,,"Per Herm Krabbenhoft's research"
+"1925A0526","robec101",1925,"CHA","P",,"IP","CHA192507152",4,3.2,"1925A0527",,,
+"1925A0527","cvenm101",1925,"CHA","P",,"IP","CHA192507152",5,5.1,"1925A0526",,,
+"1925A0528","winge102",1925,"SLA","P",,"R","CLE192508140",2,3,"1925A0529",,,
+"1925A0529","danfd101",1925,"SLA","P",,"R","CLE192508140",5,4,"1925A0530",,,
+"1925A0530","winge102",1925,"SLA","P",,"ER","CLE192508140",2,3,"1925A0531",,,
+"1925A0531","danfd101",1925,"SLA","P",,"ER","CLE192508140",5,4,"1925A0528",,,
+"1925A0532","ruffr101",1925,"BOS","P",,"R","WS1192509040",6,5,"1925A0533",,,
+"1925A0533","rossb103",1925,"BOS","P",,"R","WS1192509040",2,3,"1925A0534",,,
+"1925A0534","ruffr101",1925,"BOS","P",,"ER","WS1192509040",6,5,"1925A0535",,,
+"1925A0535","rossb103",1925,"BOS","P",,"ER","WS1192509040",2,3,"1925A0532",,,
